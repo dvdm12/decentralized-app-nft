@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "owner": "0xDBda93CF892448D743Caf8390f23f2De7889460e",
+    "priceETH": 3,
+    "image": "cyberpunk-bitcoin-illustration.jpg",
+    "artist": "Viktor Vektor"
+  },
+  {
+    "id": 1,
+    "owner": "0xae61149Fb88c6cC2CA729C12db813Dda570a8A4B",
+    "priceETH": 2.5,
+    "image": "milad-fakurian-p4VEmF2SQdU-unsplash.jpg",
+    "artist": "Lincoln Clay"
+  },
+  {
+    "id": 2,
+    "owner": "0xD44a959B203030A0aC85934ecD92eD1339114205",
+    "priceETH": 1.8,
+    "image": "li-zhang-HYwU-Fl6IoM-unsplash.jpg",
+    "artist": "Panam Palmer"
+  },
+  {
+    "id": 3,
+    "owner": "0x4A65A789C77A92Bce6e1f6dFd40FFBa4c9724501",
+    "priceETH": 3.5,
+    "image": "luis-vasconcelos-wxj729MaPRY-unsplash.jpg",
+    "artist": "Jackie Welles"
+  },
+  {
+    "id": 4,
+    "owner": "0x2152dA8aaB22fe77Ca79292344cc71cDca7c3F84",
+    "priceETH": 5,
+    "image": "mo-qAZEuKcGEiI-unsplash.jpg",
+    "artist": "Johnny Silverhand"
+  },
+  {
+    "id": 5,
+    "owner": "0x2DD5c7cFcA9dE98D5eBc370DF57c7E654CE7148f",
+    "priceETH": 1.2,
+    "image": "michael-schiffer-9CSGSq_7UrA-unsplash.jpg",
+    "artist": "Sal Marcano"
+  },
+  {
+    "id": 6,
+    "owner": "0x9F30f940f2acFDc86385c88849d898Ab2172Fc70",
+    "priceETH": 0.95,
+    "image": "omk-fsz3b0UnwZ8-unsplash.jpg",
+    "artist": "Don Salieri"
+  },
+  {
+    "id": 7,
+    "owner": "0x0525bf6D612C5CFb318840937DafB2205467f9C2",
+    "priceETH": 2.75,
+    "image": "omk-l4MqG5xkkH4-unsplash.jpg",
+    "artist": "Tommy Angelo"
+  },
+  {
+    "id": 8,
+    "owner": "0x25E3CAC51df0c1b8c25821E04Bf213648748A471",
+    "priceETH": 2.2,
+    "image": "simon-lee-IEgvy4o3byM-unsplash.jpg",
+    "artist": "River Ward"
+  },
+  {
+    "id": 9,
+    "owner": "0x073ffEED81688fAeaAE047301323f5d3aC1e60fF",
+    "priceETH": 4,
+    "image": "iguana-neon-lights.jpg",
+    "artist": "Judy Alvarez"
+  }
+]
