@@ -14,7 +14,7 @@ const imageMap = {
  10: "src/images/simon-lee-hbFKxsIqclc-unsplash.jpg"
 };
 
-module.exports = async function (deployer, network, accounts) {
+module.exports = async function (deployer, accounts) {
   // Deploy the NFTBitwiseShop contract
   await deployer.deploy(NFTBitwiseShop);
   const instance = await NFTBitwiseShop.deployed();
