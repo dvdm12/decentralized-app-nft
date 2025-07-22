@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+build/
+
+# Logs
+*.log
+
+# Truffle artifacts
+*.json
+
+# Personal configuration files
+.env
+.bs-config.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Directorios del editor
+.vscode/
+.idea/
+
+# Archivos de imagen que no se deben versionar (opcional)
+box-img-*.png
